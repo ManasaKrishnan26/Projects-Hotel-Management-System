@@ -7,7 +7,6 @@ Database management systems are prevalent across various fields for displaying i
 --> SQL queries
 -----------
     -> Five views 
---------------
     -> Six Stored procedures 
     -> Four Functions 
     -> Three Transactions
