@@ -4,8 +4,10 @@ Database management systems are prevalent across various fields for displaying i
 
 ###These are the tasks involved in the Project
 -------------
---> SQL queries 
+--> SQL queries
+-----------
     -> Five views 
+--------------
     -> Six Stored procedures 
     -> Four Functions 
     -> Three Transactions
