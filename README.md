@@ -13,7 +13,7 @@ Database management systems are prevalent across various fields for displaying i
     -> Two Triggers 
 --> Prediction and Classification Algorithms for Booking Cancelations.
 -----------
---> Visulalizations to find different parameters.
+--> Visualizations to find different parameters.
 ----------
 --> Dashboard creation. 
 ---------
